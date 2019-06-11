@@ -1,1 +1,1 @@
-module github.com/zencoder/go-dash
+module github.com/taeuk/go-dash
